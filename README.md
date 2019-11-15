@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: The benefit of client-side routing is that instead of refreshing an entire page like in the normal HTML experience- components are rendered instantaneously in response to the changing URL. This gives an identical browsing experience but also saves users from the dreaded bright flashing that may occur between pages when navigating using vanilla html anchor tags.
 
 ## Project Set Up
 

@@ -34,6 +34,15 @@ main {
   margin: 0 auto;
 } */
 
-header h1 {
+header a {
+  display: block;
   text-align: center;
+  background-image: radial-gradient( circle farthest-corner at 3.9% 11.3%,  rgba(237,120,153,1) 0%, rgba(238,216,190,1) 71.6%, rgba(249,238,221,1) 99.8% );
+  text-decoration: none;
+  padding: 3%;
+  font-size: 2rem;
+  color: black;
+  width: 45%;
+  border-radius: 2px;
+  margin: 3% auto;
 }
